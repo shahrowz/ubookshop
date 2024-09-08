@@ -138,7 +138,7 @@ const Page: PageEl = (props, state:
 
 
 
-      <Window title="سبد خرید" style={{
+      <Window title=" سبد خرید" style={{
         margin: 10,
         width: "calc(100% - 20px)"
       }}>
