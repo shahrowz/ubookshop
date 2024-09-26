@@ -35,4 +35,11 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-/push.exe
+/push.exe/publish.exe
+/node_modules/*
+/.next
+/packages
+/chrome
+/bin
+/*/bin
+/*/obj
