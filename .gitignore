@@ -43,3 +43,11 @@ next-env.d.ts
 /bin
 /*/bin
 /*/obj
+/push.exe
+/publish.exe
+/push.sh
+/publish.sh
+/push
+/publish
+push.exe
+publish.exe
